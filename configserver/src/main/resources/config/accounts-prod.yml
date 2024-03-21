@@ -1,0 +1,10 @@
+build:
+  version: "1.0"
+
+accounts:
+  message: "Welcome to guravgayatri accounts related local PROD APIs"
+  contactDetails:
+    name: "John Doe - Product leader"
+    email: "john@abc.com"
+  onCallSupport:
+    -(555)555-1234
